@@ -3,6 +3,8 @@
 
 ## Introdução
 
+Projeto de simples consulta por CEP através de consumo de API.
+
 Foram manipulados dados recebidos através de inputs para gerar um card com informações de endereço obtidas através da API ViaCEP, assim como um botão que abre o endereço encontrato no Google Maps.
 
 ## Techs utilizadas
